@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hosting React
+          Hosting React v2
         </a>
       </header>
     </div>
